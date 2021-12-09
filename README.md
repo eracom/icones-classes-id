@@ -2,13 +2,16 @@
 
 Ce dossier contient des icônes pouvant être utilisées pour représenter des classes, notamment sur Teams. Cela permet aux élèves de distinguer plus facilement les classes.
 
-Le fichier source est un fichier Sketch, et utilise différentes fontes, notamment Poppins, Segoe Ui, et AB NewutClassic.
-
-Une copie de ce fichier existe [dans Figma, à cette adresse](https://www.figma.com/file/jLlliwkpH2sBLiNMMVXoAU/Github-icons?node-id=0%3A1).
-
 ### Exemple: utilisation des icônes dans Teams
 
 ![Proposition pour Teams](exemples/proposition-teams.jpg)
+
+### Où est le fichier source ?
+
+- [Dans Figma, à cette adresse](https://www.figma.com/file/jLlliwkpH2sBLiNMMVXoAU/Github-icons?node-id=0%3A1).
+- Au format Sketch, dans le dossier `source`.
+
+Le fichier source utilise différentes fontes, notamment Poppins, Segoe Ui, et AB NewutClassic. Choisissez la fonte qui vous convient, il n'y a pas de charte graphique imposée.
 
 ### Comment trouver les paramètres
 
