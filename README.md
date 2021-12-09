@@ -11,9 +11,11 @@ Ce dossier contient des icônes pouvant être utilisées pour représenter des c
 - [Dans Figma, à cette adresse](https://www.figma.com/file/jLlliwkpH2sBLiNMMVXoAU/Github-icons?node-id=0%3A1).
 - Au format Sketch, dans le dossier `source`.
 
-Le fichier source utilise différentes fontes, notamment Poppins, Segoe Ui, et AB NewutClassic. Choisissez la fonte qui vous convient, il n'y a pas de charte graphique imposée.
+Le fichier source utilise différentes fontes, notamment Poppins, Segoe Ui, et AB NewutClassic. Choisissez la fonte et la couleur qui vous convient, il n'y a pas de charte graphique imposée.
 
 ### Comment trouver les paramètres
+
+Pour importer votre icône dans Teams:
 
 - Cliquer sur les ... à côté du nom de l'équipe
 - Choisir **Gérer l'équipe**
